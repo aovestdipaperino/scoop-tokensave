@@ -1,0 +1,23 @@
+{
+  "version": "1.4.0",
+  "description": "Code intelligence tool that builds semantic knowledge graphs from source code",
+  "homepage": "https://github.com/aovestdipaperino/tokensave",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/aovestdipaperino/tokensave/releases/download/v1.4.0/tokensave-v1.4.0-x86_64-windows.zip",
+      "hash": ""
+    }
+  },
+  "bin": "tokensave.exe",
+  "checkver": {
+    "github": "https://github.com/aovestdipaperino/tokensave"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://github.com/aovestdipaperino/tokensave/releases/download/v$version/tokensave-v$version-x86_64-windows.zip"
+      }
+    }
+  }
+}
