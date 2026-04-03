@@ -1,12 +1,12 @@
 {
-  "version": "3.0.0-beta",
+  "version": "3.2.0-beta.2",
   "description": "Code intelligence tool (beta channel)",
   "homepage": "https://github.com/aovestdipaperino/tokensave",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/aovestdipaperino/tokensave/releases/download/v3.0.0-beta/tokensave-beta-v3.0.0-beta-x86_64-windows.zip",
-      "hash": "facb18e19ad33ddee611c9ced612390fdfcffbb684fd0698567afc6efeac6898"
+      "url": "https://github.com/aovestdipaperino/tokensave/releases/download/v3.2.0-beta.2/tokensave-beta-v3.2.0-beta.2-x86_64-windows.zip",
+      "hash": "4d5f671d761beac54cf76ee13fa6a1ed3e682c2e0a5057d325c52ca95e70dc45"
     }
   },
   "bin": "tokensave.exe",
