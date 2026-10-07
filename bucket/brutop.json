@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/aovestdipaperino/bruto-pascal/releases/download/v1.0.3/bruto-pascal-v1.0.3-x86_64-windows.zip",
-      "hash": "06f1750d615c47509eee4aac43d75b224eeea09452a492a37796fb7ef01134d6"
+      "hash": "155faec0221c3c0fb4bb6baf3c47e9f5984babefb80b0ecece9e8dadbb82d510"
     }
   },
   "bin": "brutop.exe",
